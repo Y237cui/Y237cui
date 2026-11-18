@@ -5,7 +5,7 @@
 <h2 align="center">Yan Cui</h2>
 <p align="center">
   <strong>MSc Statistics · University of Toronto</strong><br/>
-  BMath Data Science | Statistics & Computer Science · University of Waterloo
+  <strong>BMath Data Science | Statistics & Computer Science · University of Waterloo</strong><br/>
 </p>
 
 <p align="center">
