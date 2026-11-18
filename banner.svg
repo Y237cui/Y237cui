@@ -1,56 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
-<title id="title">Yan Cui — Statistics, Data Science, Machine Learning</title>
-<desc id="desc">Minimal academic banner in deep navy with statistical distribution curves and a histogram.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0B1B31"/>
-    <stop offset="1" stop-color="#142D4B"/>
-  </linearGradient>
-  <linearGradient id="curve" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#2F80ED" stop-opacity=".12"/>
-    <stop offset=".55" stop-color="#6BA8F5" stop-opacity=".9"/>
-    <stop offset="1" stop-color="#8CC2FF" stop-opacity=".35"/>
-  </linearGradient>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1B31"/><stop offset="1" stop-color="#142D4B"/></linearGradient><linearGradient id="curve" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2F80ED" stop-opacity=".12"/><stop offset=".55" stop-color="#6BA8F5" stop-opacity=".9"/><stop offset="1" stop-color="#8CC2FF" stop-opacity=".35"/></linearGradient></defs>
 <rect width="1600" height="800" fill="url(#bg)"/>
-<g opacity=".10" stroke="#8CB7E8" stroke-width="1">
-  <path d="M0 160H1600M0 320H1600M0 480H1600M0 640H1600"/>
-  <path d="M200 0V800M400 0V800M600 0V800M800 0V800M1000 0V800M1200 0V800M1400 0V800"/>
-</g>
+<g opacity=".10" stroke="#8CB7E8"><path d="M0 160H1600M0 320H1600M0 480H1600M0 640H1600"/><path d="M200 0V800M400 0V800M600 0V800M800 0V800M1000 0V800M1200 0V800M1400 0V800"/></g>
 <g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="86" y="202" fill="#FFFFFF" font-size="112" font-weight="700" letter-spacing="-3">Yan Cui</text>
-  <text x="92" y="286" fill="#D7E7FA" font-size="43" font-weight="500">Statistics  ·  Data Science  ·  Machine Learning</text>
-  <rect x="92" y="330" width="128" height="9" rx="4.5" fill="#3993F5"/>
-  <g fill="#F1F6FD" font-size="34" font-weight="500">
-    <text x="175" y="430">MSc in Statistics, University of Toronto</text>
-    <text x="175" y="500">BMath in Data Science, University of Waterloo</text>
-  </g>
-  <g fill="none" stroke="#D7E9FF" stroke-width="3" opacity=".9">
-    <path d="M98 405l29-18 29 18-29 18z M110 413v12l17 11 17-11v-12"/>
-    <path d="M98 475l29-18 29 18-29 18z M110 483v12l17 11 17-11v-12"/>
-  </g>
-  <g transform="translate(92 585)">
-    <rect width="350" height="64" rx="32" fill="#254365" opacity=".82"/>
-    <text x="175" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Statistical Inference</text>
-    <rect x="370" width="310" height="64" rx="32" fill="#254365" opacity=".82"/>
-    <text x="525" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Machine Learning</text>
-    <rect x="700" width="270" height="64" rx="32" fill="#254365" opacity=".82"/>
-    <text x="835" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Risk Modeling</text>
-    <rect x="990" width="420" height="64" rx="32" fill="#254365" opacity=".82"/>
-    <text x="1200" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Uncertainty Quantification</text>
-  </g>
-</g>
-<g transform="translate(960 95)" fill="none" stroke="url(#curve)" stroke-width="5">
-  <path d="M0 430 C120 430 170 400 230 310 C300 205 335 35 410 35 C485 35 520 205 590 310 C650 400 700 430 790 430"/>
-  <path d="M-30 430 C110 430 160 385 220 340 C290 285 345 150 410 150 C475 150 530 285 600 340 C660 385 710 430 820 430" opacity=".75"/>
-</g>
-<g transform="translate(1100 450)" fill="#4B91D8" opacity=".42">
-  <rect x="0" y="95" width="20" height="35" rx="2"/><rect x="34" y="82" width="20" height="48" rx="2"/>
-  <rect x="68" y="65" width="20" height="65" rx="2"/><rect x="102" y="45" width="20" height="85" rx="2"/>
-  <rect x="136" y="24" width="20" height="106" rx="2"/><rect x="170" y="0" width="20" height="130" rx="2"/>
-  <rect x="204" y="18" width="20" height="112" rx="2"/><rect x="238" y="40" width="20" height="90" rx="2"/>
-  <rect x="272" y="62" width="20" height="68" rx="2"/><rect x="306" y="82" width="20" height="48" rx="2"/>
-  <rect x="340" y="98" width="20" height="32" rx="2"/>
-</g>
+<text x="86" y="202" fill="#FFF" font-size="112" font-weight="700">Yan Cui</text>
+<text x="92" y="286" fill="#D7E7FA" font-size="43">Statistics · Computer Science · Machine Learning</text>
+<rect x="92" y="330" width="128" height="9" rx="4.5" fill="#3993F5"/>
+<g fill="#F1F6FD" font-size="34" font-weight="500"><text x="175" y="430">MSc in Statistics, University of Toronto</text><text x="175" y="500">BMath in Data Science, University of Waterloo</text></g>
+<g transform="translate(92 585)"><rect width="350" height="64" rx="32" fill="#254365"/><text x="175" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Statistical Inference</text><rect x="370" width="310" height="64" rx="32" fill="#254365"/><text x="525" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Machine Learning</text><rect x="700" width="270" height="64" rx="32" fill="#254365"/><text x="835" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Risk Modeling</text><rect x="990" width="420" height="64" rx="32" fill="#254365"/><text x="1200" y="42" fill="#F4F8FF" font-size="25" text-anchor="middle">Uncertainty Quantification</text></g></g>
+<g transform="translate(960 95)" fill="none" stroke="url(#curve)" stroke-width="5"><path d="M0 430 C120 430 170 400 230 310 C300 205 335 35 410 35 C485 35 520 205 590 310 C650 400 700 430 790 430"/><path d="M-30 430 C110 430 160 385 220 340 C290 285 345 150 410 150 C475 150 530 285 600 340 C660 385 710 430 820 430" opacity=".75"/></g>
+<g transform="translate(1100 450)" fill="#4B91D8" opacity=".42"><rect x="0" y="95" width="20" height="35"/><rect x="34" y="82" width="20" height="48"/><rect x="68" y="65" width="20" height="65"/><rect x="102" y="45" width="20" height="85"/><rect x="136" y="24" width="20" height="106"/><rect x="170" y="0" width="20" height="130"/><rect x="204" y="18" width="20" height="112"/><rect x="238" y="40" width="20" height="90"/><rect x="272" y="62" width="20" height="68"/><rect x="306" y="82" width="20" height="48"/><rect x="340" y="98" width="20" height="32"/></g>
 <path d="M1030 582H1540" stroke="#7EB5F0" stroke-opacity=".22" stroke-width="2"/>
 </svg>
