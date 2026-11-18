@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Yan Cui — Statistics, Data Science, Machine Learning" />
+  <img src="banner.svg" width="100%" alt="Yan Cui — Statistics, Computer Science, Machine Learning" />
 </p>
 
 <h2 align="center">Yan Cui</h2>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Statistics · Data Science · Machine Learning</strong><br/>
+  <strong>Statistics · Computer Science · Machine Learning</strong><br/>
   Statistical Inference · Model Evaluation · Risk Modeling · Uncertainty Quantification
 </p>
 
@@ -17,7 +17,7 @@
 
 ### About
 
-I am a Statistics graduate student at the University of Toronto with an undergraduate background in Statistics and Computer Science from the University of Waterloo. My interests include statistical inference, machine learning, model evaluation, and methods for quantifying uncertainty in data-driven decisions.
+I am a Statistics graduate student at the University of Toronto with an undergraduate background in Data Science from the University of Waterloo. My academic interests sit at the intersection of statistical methodology and computer science, particularly statistical inference, machine learning, model evaluation, and methods for quantifying uncertainty in data-driven decisions.
 
 ### Selected Projects
 
@@ -31,7 +31,7 @@ I am a Statistics graduate student at the University of Toronto with an undergra
 ### Technical Interests
 
 - **Statistics:** Statistical inference, regression, resampling, causal inference
-- **Machine Learning:** Anomaly detection, model evaluation, predictive modeling
+- **Computer Science & ML:** Machine learning, algorithms, data systems, model evaluation
 - **Programming:** Python, R, SQL
 - **Tools:** pandas, NumPy, scikit-learn, statsmodels, R Shiny, PostgreSQL, Docker
 
