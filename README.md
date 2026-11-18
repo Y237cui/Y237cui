@@ -17,7 +17,7 @@
 
 ### About
 
-I am a Statistics graduate student at the University of Toronto with an undergraduate background in Data Science from the University of Waterloo. My interests include statistical inference, machine learning, model evaluation, and methods for quantifying uncertainty in data-driven decisions.
+I am a Statistics graduate student at the University of Toronto with an undergraduate background in Statistics and Computer Science from the University of Waterloo. My interests include statistical inference, machine learning, model evaluation, and methods for quantifying uncertainty in data-driven decisions.
 
 ### Selected Projects
 
